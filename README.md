@@ -4,5 +4,5 @@ I'm a frontend developer and designer from Chicago, IL who is passionate about c
 
 💻 Lately, I've been working with React, Typescript, Gatsby.js, Next.js and TailwindCSS.  
 🌎 I'm currently learning Spanish, Mandarin and Japanese.  
-🏂 Avid Snowboarder. 
+🏂 Avid Snowboarder.  
 🍣 Foodie. 
